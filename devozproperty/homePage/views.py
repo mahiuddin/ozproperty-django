@@ -4,4 +4,4 @@ from django.http import HttpResponse
 # Create your views here.
 
 def homePage(request):
-  return HttpResponse("Hello world, i am from Oz Property Value")
+  return HttpResponse("This is the updated file.")

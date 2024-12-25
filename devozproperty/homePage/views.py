@@ -4,4 +4,4 @@ from django.http import HttpResponse
 # Create your views here.
 
 def homePage(request):
-  return HttpResponse("This is the updated file.")
+  return HttpResponse("This is the new file")
